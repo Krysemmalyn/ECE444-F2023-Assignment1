@@ -8,3 +8,6 @@
 
 ## Activity 3 Issue Resolution
 ![Activity 3](https://github.com/Krysemmalyn/ECE444-F2023-Assignment1/assets/99698023/37a72d7e-bb00-4bc4-8b36-c371dbdc15fd)
+
+## Activity 4 Unit Test
+![Activity 4](https://github.com/Krysemmalyn/ECE444-F2023-Assignment1/assets/99698023/f418ab79-a15b-4ed6-a264-ab2f3b946e8a)
