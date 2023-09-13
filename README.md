@@ -13,5 +13,5 @@
 ![Activity 4](https://github.com/Krysemmalyn/ECE444-F2023-Assignment1/assets/99698023/f418ab79-a15b-4ed6-a264-ab2f3b946e8a)
 
 ## Activity 5 Rebase
-![Rebase command](https://github.com/Krysemmalyn/ECE444-F2023-Assignment1/assets/99698023/f5d5dee2-f774-41f9-b8f3-1d717f6fd81f)
-![develop commits](https://github.com/Krysemmalyn/ECE444-F2023-Assignment1/assets/99698023/e55cc0ce-9f3e-4965-9b57-3f7984ced4dc)
+![og commits](https://github.com/Krysemmalyn/ECE444-F2023-Assignment1/assets/99698023/699ffcbc-c45b-449c-b9ab-74cd4da4ceb1)
+![develop reordered](https://github.com/Krysemmalyn/ECE444-F2023-Assignment1/assets/99698023/5136f490-589a-4bcf-83d4-0fd00ccd40ce)
